@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "next",
     "clean": "rimraf docs",
-    "build": "npm run clean && NODE_ENV=production next build && NODE_ENV=production next export && mv out docs",
+    "build": "next build && next export -o docs",
     "start": "next start"
   },
   "keywords": [],
