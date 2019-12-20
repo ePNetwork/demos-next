@@ -1,0 +1,10 @@
+.link-clipboard {
+    &__input {
+        input {
+            padding-right: 120px !important;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+            overflow: hidden;
+        }
+    }
+}

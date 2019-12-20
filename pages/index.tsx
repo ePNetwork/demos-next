@@ -1,5 +1,8 @@
+import Layout from "../components/Layout";
+import LinkGenForm from "../components/LinkGenForm";
+
 export default () => (
-    <div>
-        Hello world
-    </div>
+    <Layout>
+        <LinkGenForm/>
+    </Layout>
 )

@@ -14,10 +14,18 @@
   "dependencies": {
     "@types/node": "^12.12.18",
     "@types/react": "^16.9.16",
-    "chocolate-convertor": "^1.0.2",
+    "@types/url-parse": "^1.4.3",
+    "@zeit/next-css": "^1.0.1",
+    "@zeit/next-sass": "^1.0.1",
+    "antd": "^3.26.3",
+    "chocolate-convertor": "^1.2.0",
     "next": "^9.1.5",
+    "node-sass": "^4.13.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
-    "typescript": "^3.7.3"
+    "tracking-rotations-util": "^0.0.5",
+    "tracking-url-util": "^0.0.3",
+    "typescript": "^3.7.3",
+    "url-parse": "^1.4.7"
   }
 }
